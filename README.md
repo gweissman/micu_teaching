@@ -29,6 +29,7 @@ This is a repo with MICU teaching topics and related references.
 - Hypothesis-driven bedside encounter: https://www.nejm.org/doi/full/10.1056/NEJMra2500226
 - In the ICU: https://pmc.ncbi.nlm.nih.gov/articles/PMC9449083/
 - Bedside diagnosis in the ICU: https://pmc.ncbi.nlm.nih.gov/articles/PMC4627420/
+- Five symptoms to evaluate each day: https://link.springer.com/article/10.1007/s00134-015-3729-x
 
 ## Fluid resuscitation
 
