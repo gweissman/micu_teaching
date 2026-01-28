@@ -2,7 +2,13 @@
 
 This is a repo with MICU teaching topics and related references.
 
-## Patient and family counseling
+# Expectations
+
+1. Excellent patient care that requires teamwork
+2. Set and achieve personalized learning goals
+3. Be human
+
+## Patient and family survivorship counseling
 
 - PICS: https://doi.org/10.1001/jama.2025.23666
 - Systematic review for assessment: https://pubmed.ncbi.nlm.nih.gov/40429591/
@@ -15,6 +21,8 @@ This is a repo with MICU teaching topics and related references.
 
 ## Sepsis
 
+- Excellent review: https://www.nejm.org/doi/full/10.1056/NEJMra2403213
+- Time to treatment: https://www.nejm.org/doi/full/10.1056/NEJMoa1703058
 - Sepsis-3 Definition: https://pubmed.ncbi.nlm.nih.gov/26903338/
 - SOFA-2 Definition: https://pubmed.ncbi.nlm.nih.gov/41159833/
 
@@ -33,7 +41,15 @@ This is a repo with MICU teaching topics and related references.
 
 ## Fluid resuscitation
 
-- 
+- CLOVERS Trial: https://www.nejm.org/doi/full/10.1056/NEJMoa2212663
+- Is 30 mL/kg a hoax: https://pmc.ncbi.nlm.nih.gov/articles/PMC7024756/
+
+## ARDS
+
+- ARMA: https://www.nejm.org/doi/full/10.1056/NEJM200005043421801
+- PROSEVA: https://www.nejm.org/doi/full/10.1056/NEJMoa1214103
+- Driving pressure: https://www.nejm.org/doi/full/10.1056/NEJMsa1410639
+
 
 ## Hemorrhagic shock
 
