@@ -43,6 +43,9 @@ This is a repo with MICU teaching topics and related references.
 
 - CLOVERS Trial: https://www.nejm.org/doi/full/10.1056/NEJMoa2212663
 - Is 30 mL/kg a hoax: https://pmc.ncbi.nlm.nih.gov/articles/PMC7024756/
+- Phases of fluid management: https://pubmed.ncbi.nlm.nih.gov/37016472/
+- RCT of responsiveness-guided resuscitation in sepsis: https://journal.chestnet.org/article/S0012-3692(20)30768-6/abstract
+- Pulse pressure variation review: https://www.atsjournals.org/doi/10.1164/rccm.201801-0088CI
 
 ## ARDS
 
@@ -50,7 +53,20 @@ This is a repo with MICU teaching topics and related references.
 - PROSEVA: https://www.nejm.org/doi/full/10.1056/NEJMoa1214103
 - Driving pressure: https://www.nejm.org/doi/full/10.1056/NEJMsa1410639
 
-
 ## Hemorrhagic shock
 
 - Review: https://pubmed.ncbi.nlm.nih.gov/29365303/
+
+## Diagnostic error
+
+- The famous 2015 NASEM report on defining and reducing diagnostic errors: https://nap.nationalacademies.org/resource/21794/interactive/
+- Achieving diagnostic excellence through "wayfinding": https://jamanetwork.com/journals/jama/article-abstract/2787207
+- Epidemiology of diagnostic error in critical illness: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2813854
+- Review of diagnostic errors in critical illness: https://link.springer.com/article/10.1007/s00134-025-08126-2
+
+## End of life
+
+- Radiolab Podcast -- Queen of Dying: https://radiolab.org/podcast/queen-dying
+- The Nocturnists Podcast -- Just 5 Minutes: https://thenocturnists.org/podcast/just-five-minutes
+- GeriPal Podcast -- Breath Becomes Air or Nothing Becomes Something: https://geripal.org/geripal-podcast-2-breath-becomes-air-or/
+
