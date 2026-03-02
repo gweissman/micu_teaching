@@ -46,6 +46,7 @@ This is a repo with MICU teaching topics and related references.
 - Phases of fluid management: https://pubmed.ncbi.nlm.nih.gov/37016472/
 - RCT of responsiveness-guided resuscitation in sepsis: https://journal.chestnet.org/article/S0012-3692(20)30768-6/abstract
 - Pulse pressure variation review: https://www.atsjournals.org/doi/10.1164/rccm.201801-0088CI
+- Physical exam for volume overload: https://jamanetwork.com/journals/jama/fullarticle/2845382
 
 ## ARDS
 
