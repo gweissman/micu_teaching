@@ -47,6 +47,7 @@ This is a repo with MICU teaching topics and related references.
 - RCT of responsiveness-guided resuscitation in sepsis: https://journal.chestnet.org/article/S0012-3692(20)30768-6/abstract
 - Pulse pressure variation review: https://www.atsjournals.org/doi/10.1164/rccm.201801-0088CI
 - Physical exam for volume overload: https://jamanetwork.com/journals/jama/fullarticle/2845382
+- Fluid responsiveness assessment review: https://pmc.ncbi.nlm.nih.gov/articles/PMC9148319/
 
 ## ARDS
 
