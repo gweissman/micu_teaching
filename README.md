@@ -67,6 +67,7 @@ This is a repo with MICU teaching topics and related references.
 
 ## End of life
 
+- Palliative extubation: https://www.jpsmjournal.com/article/S0885-3924(23)00443-8/fulltext
 - Radiolab Podcast -- Queen of Dying: https://radiolab.org/podcast/queen-dying
 - The Nocturnists Podcast -- Just 5 Minutes: https://thenocturnists.org/podcast/just-five-minutes
 - GeriPal Podcast -- Breath Becomes Air or Nothing Becomes Something: https://geripal.org/geripal-podcast-2-breath-becomes-air-or/
